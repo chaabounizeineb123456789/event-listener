@@ -1,0 +1,25 @@
+#img{
+	width: 55%;
+	height: 389px;
+	border:none; 
+}
+#hi{
+    display: inline-block !important; 
+    width: 95px;
+    height: 60px;
+    padding: 5px;
+}
+.demo{
+	max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+.menu{
+    margin:auto;
+    padding-left: 5%;
+}
+h1{
+	color: tomato;
+	margin-left: 25% !important;
+}
